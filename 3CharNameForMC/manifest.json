@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "3CNB",
+    "short_name":"3CNB",
+    "version": "1.0",
+    "author":"Aisudaga",
+  
+    "description": "Bot for 3 char name",
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.minecraft.net/*"],
+        "js": ["3cnb.js"]
+      }
+    ]
+
+}
