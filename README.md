@@ -1,3 +1,3 @@
 # Some-Random-Project
 
-Each folder corresponds to a unique project
+Each folder/file in the main branch corresponds to a unique project
