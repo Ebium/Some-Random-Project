@@ -2,7 +2,7 @@
 
 
 //Trove program
-//Calculs the amount of trade you need to reach a wanted amount of flux
+//Calculs the amount of trade you need to reach a wanted amount of flux with tow
 
 
 
